@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1447952428 source:f:\прогр\lab4\main.cpp
+	<iostream>
+	"sdt.h"
+
+1443162709 f:\прогр\lab4\sdt.h
+	<iostream>
+	<iomanip>
+	<fstream>
+	<sstream>
+	<cmath>
+	<cstdlib>
+	<string>
+	<list>
+	<forward_list>
+	<vector>
+	<map>
+	<unordered_map>
+	<algorithm>
+	<array>
+	<regex>
+	<random>
+	<stdexcept>
+
+1449146270 source:c:\users\Анастасия\desktop\lab4\main.cpp
+	<iostream>
+	"sdt.h"
+
+1443159109 c:\users\Анастасия\desktop\lab4\sdt.h
+	<iostream>
+	<iomanip>
+	<fstream>
+	<sstream>
+	<cmath>
+	<cstdlib>
+	<string>
+	<list>
+	<forward_list>
+	<vector>
+	<map>
+	<unordered_map>
+	<algorithm>
+	<array>
+	<regex>
+	<random>
+	<stdexcept>
+
